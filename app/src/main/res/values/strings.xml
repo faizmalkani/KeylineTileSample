@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KeylineTileSample</string>
+    <string name="toggle_label">Toggle Grid</string>
+</resources>
